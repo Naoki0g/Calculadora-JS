@@ -39,19 +39,6 @@ O design utiliza as seguintes variáveis CSS para manter a consistência visual:
 | `--hk-accent` | `#4a5c78` | Cor base dos botões numéricos |
 | `--hk-border` | `#283142` | Bordas e botões de operadores |
 
-## ⚙️ Como Executar
-
-1.  **Clone o repositório**:
-    ```bash
-    git clone [https://github.com/seu-usuario/calculadora-js.git](https://github.com/seu-usuario/calculadora-js.git)
-    ```
-2.  **Acesse a pasta**:
-    ```bash
-    cd calculadora-js
-    ```
-3.  **Abra o projeto**:
-    Basta abrir o arquivo `index.html` em seu navegador de preferência.
-
 ---
 
 *Projeto desenvolvido para fins de estudo em desenvolvimento front-end e lógica de programação.*
